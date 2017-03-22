@@ -1,0 +1,29 @@
+
+
+body {
+
+    background-color: lightgray;
+    table-layout: : center;
+}
+
+h1 {
+
+  font-size: 20;
+  font-family: arial;
+ }
+
+ #buttons {
+  font-family: arial;
+  align-items: center;
+
+  }
+
+  #spacer {
+    height:20px;
+
+  }
+
+  #display {
+    font-family: arial;
+
+  }
